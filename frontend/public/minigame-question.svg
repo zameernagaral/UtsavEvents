@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#ffffff" />
+  <rect x="60" y="60" width="1080" height="680" rx="24" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2" />
+  <text x="120" y="160" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#0f172a">Step 7 - Final Clue</text>
+  <text x="120" y="230" font-family="Arial, sans-serif" font-size="24" fill="#334155">Final instruction appears:</text>
+  <text x="120" y="290" font-family="Arial, sans-serif" font-size="28" fill="#0f172a">
+    The artifact is the piece that commands the board
+  </text>
+  <text x="120" y="330" font-family="Arial, sans-serif" font-size="28" fill="#0f172a">
+    but bows to the crown.
+  </text>
+  <text x="120" y="410" font-family="Arial, sans-serif" font-size="24" fill="#334155">Interpretation:</text>
+  <circle cx="135" cy="455" r="6" fill="#3b82f6" />
+  <text x="155" y="462" font-family="Arial, sans-serif" font-size="24" fill="#0f172a">Second highest piece</text>
+  <circle cx="135" cy="505" r="6" fill="#3b82f6" />
+  <text x="155" y="512" font-family="Arial, sans-serif" font-size="24" fill="#0f172a">Most powerful attacker</text>
+  <rect x="120" y="560" width="420" height="70" rx="14" fill="#e2e8f0" />
+  <text x="140" y="606" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#334155">Answer in ALL CAPS</text>
+</svg>
