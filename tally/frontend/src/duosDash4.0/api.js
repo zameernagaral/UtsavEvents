@@ -1,5 +1,5 @@
 const API_URL = import.meta.env.VITE_API_URL || '';
-const API_BASE = `${API_URL}/api/duosdash`;
+const API_BASE = "https://utsavevents.zameercodes.workers.dev/api/duosdash";
 
 export function getToken() {
   return localStorage.getItem('dd_token') || ''
@@ -29,6 +29,8 @@ export async function apiCall(path, opts = {}) {
 }
 
 export async function login(username, password) {
+   console.log("LOGIN CALLED"); // add this
+
   const res = await fetch(API_BASE + '/login', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
