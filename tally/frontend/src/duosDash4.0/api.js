@@ -1,5 +1,5 @@
 const API_URL = import.meta.env.VITE_API_URL || '';
-const API_BASE = "https://utsavevents.onrender.com/api/duosdash/";
+const API_BASE = "https://utsavevents.onrender.com/api/duosdash";
 
 export function getToken() {
   return localStorage.getItem('dd_token') || ''
